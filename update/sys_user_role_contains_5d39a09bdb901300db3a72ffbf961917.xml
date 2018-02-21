@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="impersonator" name="impersonator">bca873d30a000704013944bd9a5e03a4</contains>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">def1a097db901300db3a72ffbf961950</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-20 14:00:59</sys_created_on>
+        <sys_id>5d39a09bdb901300db3a72ffbf961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>impersonator.x_58872_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_contains_5d39a09bdb901300db3a72ffbf961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-20 14:00:59</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
